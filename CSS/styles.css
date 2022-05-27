@@ -1,0 +1,40 @@
+.sidebar {
+  width: 50%;
+  float: right;
+  background-color: papayawhip;
+}
+
+h1 {
+  color: blue;
+  text-align: left;
+  font-family: sans-serif
+}
+
+h2 {
+  font-style: italic;
+  text-align: left;
+  font-family: sans-serif
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  font-family: sans-serif
+}
+
+ol {
+  font-size: 20px;
+  line-height: 30px;
+  font-family: sans-serif
+}
+
+.box1 {
+  width: 50%;
+  border: solid black;
+  border-width: 1px;
+  background-color: orange;
+  margin-bottom: 10px;

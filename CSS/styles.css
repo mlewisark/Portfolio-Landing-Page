@@ -35,6 +35,6 @@ ol {
 .box1 {
   width: 50%;
   border: solid black;
-  border-width: 1px;
-  background-color: orange;
-  margin-bottom: 10px;
+  border-width: 5px;
+  background-color: yellowgreen;
+  margin-bottom: 25px;

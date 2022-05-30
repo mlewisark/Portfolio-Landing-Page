@@ -11,7 +11,7 @@
 
 ## Description
 
-Allows users to access to Mark Lewis’s Epicodus work portfolio.
+Allows users access to Mark Lewis’s Epicodus work portfolio.
 
 ## Link to site
 
